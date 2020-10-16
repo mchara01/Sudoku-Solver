@@ -1,7 +1,6 @@
 //************************************************************************
 // Program Name	: Sudoku Solver using Recursive Backtracking.
 // Programmer	: Marcos Charalambous
-// Stud. ID	: 919077
 // Date  Modif.	: 30/11/17
 //************************************************************************
 // Comments: Given a partially filled 9×9 2D array grid[9][9], the goal is 
